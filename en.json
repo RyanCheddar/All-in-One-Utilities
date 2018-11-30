@@ -24,4 +24,17 @@
   "carrier": "Carrier",
   "version": "Version",
   "name.status": "Status",
+  "name.installbeta": "Install Beta",
+  "beta.warning": "WARNING: Installing a beta version can break features and might affect your preferences!",
+  "beta.warningcontinue": "Are you sure you want to continue?",
+  "beta.availablebeta": "Available beta:",
+  "install": "Install",
+  "beta.seechange": "See Changes and Bugs",
+  "Required Action": "Things to test",
+  "goback": "<- Go Back",
+  "beta.acknowledge": "Have you acknowledged the risks of installing an beta?",
+  "beta.changes": "Changes:",
+  "beta.bugs": "Bugs:",
 }
+
+
