@@ -16,7 +16,7 @@
   "status.lowpower": "Low Power (...)",
   "status.updateavailable": "Update Available (...)",
   "status.availableforinstall": "is available for you to install.",
-  "status.actionstodo": "Actions you can do:"
+  "status.actionstodo": "Actions you can do:",
   "prompt.category": "Please choose a category.",
   "battery": "Battery",
   "time": "Time",
