@@ -1,6 +1,7 @@
 {
 "ver": "B45 R2",
-"changelog": "Multi-language System",
+"changelog": "Multi-language System, major rewrite",
 "URL": "https://www.icloud.com/shortcuts/c65240e523744a6594c4c21f166b3a00",
-"bugs": "Shortcut might not run at all without an official installation of All-in-One Utilities, language system only 5% complete, Chinese doesn't work as the github files are missing"
+"bugs": "Shortcut might not run at all without an official installation of All-in-One Utilities, rewrite not done, language system only 7% complete, Chinese doesn't work as the github files are missing",
+"actions": "Test for crashes and bugs",
 }
