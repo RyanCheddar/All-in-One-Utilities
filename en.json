@@ -78,5 +78,6 @@
   "days": "Days",
   "unavailable": "Sorry, but this utility is unavailable for your language.",
   "slot": "Slot",
-  "checkforupdates": "Check For Updates"
+  "checkforupdates": "Check For Updates",
+  "page": "Page"
 }
