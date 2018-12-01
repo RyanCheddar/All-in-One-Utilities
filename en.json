@@ -37,7 +37,14 @@
   "beta.changes": "Changes:",
   "beta.bugs": "Bugs:",
   "java.choosefont": "Choose a font",
-  “name.system”: “System”
+  “name.system”: “System”,
+  “name.daily”: “Daily”,
+  “name.fun”: “Fun”,
+  “name.scenarios”: “Scenarios”,
+  “name.java”: “Run JavaScript”,
+  “name.misc”: “Miscellaneous”,
+  “name.other”: “Other”,
+  “utilities”: “utilities”
 }
 
 
