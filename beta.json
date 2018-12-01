@@ -1,7 +1,7 @@
 {
-"ver": "B45 R6",
-"changelog": "Multi-language System, shortcut performance improvements, refined some utilities",
-"URL": "https://www.icloud.com/shortcuts/ff17fbe8278d49eb8d2e0c8ab2a3f040",
+"ver": "B45 R7",
+"changelog": "Multi-language System, shortcut performance improvements, refined some utilities, new PIN lock",
+"URL": "https://www.icloud.com/shortcuts/813726a8bf93488ca903d60287acde5a",
 "bugs": "Shortcut might not run properly without an official installation of All-in-One Utilities, language system only 9% complete, Chinese doesn't work as the github files are missing, language system can't detect if the language file is corrupt",
 "actions": "Test for crashes and bugs, check for missing strings",
 }
