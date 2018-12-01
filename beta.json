@@ -3,5 +3,5 @@
 "changelog": "Multi-language System, shortcut performance improvements, refined some utilities, new PIN lock",
 "URL": "https://www.icloud.com/shortcuts/e2043d4ecd364d629498390b1f9bc896",
 "bugs": "Shortcut might not run properly without an official installation of All-in-One Utilities, language system only 9% complete, Chinese doesn't work as the github files are missing, language system can't detect if the language file is corrupt",
-"actions": "Test for crashes and bugs, check for missing strings",
+"actions": "Test for crashes and bugs, check for missing strings, if shortcut starts acting weird get an official version of All-in-One Utilities and run the cleanup utility in [Other>Cleanup]",
 }
