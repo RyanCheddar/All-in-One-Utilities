@@ -36,7 +36,8 @@
   "beta.acknowledge": "Have you acknowledged the risks of installing an beta?",
   "beta.changes": "Changes:",
   "beta.bugs": "Bugs:",
-  "java.choosefont": "Choose a font"
+  "java.choosefont": "Choose a font",
+  “name.system”: “System”
 }
 
 
