@@ -79,5 +79,13 @@
   "unavailable": "Sorry, but this utility is unavailable for your language.",
   "slot": "Slot",
   "checkforupdates": "Check For Updates",
-  "page": "Page"
+  "page": "Page",
+  "updateunsuccessful": "Update Unsuccessful",
+  "failupdatetext": "The update could not be completed because there is no internet connection.",
+  "name.pin": "PIN Lock",
+  "enablepin": "Enable PIN Lock?",
+  "disablepin": "Disable PIN Lock?",
+"enterpinsetup": "Please enter a PIN",
+"enterpinagain": "Please confirm your PIN",
+"incorrectpin": "PIN incorrect."
 }
