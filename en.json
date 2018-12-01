@@ -82,11 +82,11 @@
   "page": "Page",
   "updateunsuccessful": "Update Unsuccessful",
   "failupdatetext": "The update could not be completed because there is no internet connection.",
-  "name.pin": "PIN Lock",
-  "enablepin": "Enable PIN Lock?",
-  "disablepin": "Disable PIN Lock?",
-"enterpinsetup": "Please enter a PIN",
-"enterpinagain": "Please confirm your PIN",
-"incorrectpin": "PIN incorrect.",
-  "nopin": "No PIN inputted"
+  "name.pin": "passcode Lock",
+  "enablepin": "Enable passcode Lock?",
+  "disablepin": "Disable passcode Lock?",
+"enterpinsetup": "Please enter a passcode",
+"enterpinagain": "Please confirm your passcode",
+"incorrectpin": "passcode incorrect.",
+  "nopin": "No passcode inputted"
 }
