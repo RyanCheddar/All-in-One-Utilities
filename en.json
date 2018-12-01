@@ -87,5 +87,6 @@
   "disablepin": "Disable PIN Lock?",
 "enterpinsetup": "Please enter a PIN",
 "enterpinagain": "Please confirm your PIN",
-"incorrectpin": "PIN incorrect."
+"incorrectpin": "PIN incorrect.",
+  "nopin": "No PIN inputted"
 }
