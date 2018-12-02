@@ -1,6 +1,6 @@
 {
   "name.shortcut": "All-in-One Utilities",
-  "ver": "0.14",
+  "ver": "0.15",
   "lang": "en",
   "yes": "Yes",
   "no": "No",
@@ -106,5 +106,6 @@
   "changelogsee": "See Changelogs",
   "updatelater": "Update later",
   "credit": "Made by u/XPGamingYT on Reddit, UpdateKit made by Mike Beasley, RoutineHub created by Harley Hicks, ShareShortcuts by Daniel Bahl, ShortcutsGallery.com by Yannic Fries",
-  "changelang": "Change Language"
+  "changelang": "Change Language",
+  "cleanupwarn": "USING THE CLEANUP UTILITY WILL ERASE ALL YOUR PREFERENCES! ARE YOU SURE YOU WANT TO PROCEED?"
 }
