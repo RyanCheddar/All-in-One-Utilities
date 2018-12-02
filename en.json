@@ -101,5 +101,10 @@
   "lang": "pref",
   "about": "About this shortcut",
   "noupdates": "There are no available updates for install.",
-  
+  "updateavailabletext": "is available for install. Would you like to install it?",
+  "options": "Choose an option",
+  "changelogsee": "See Changelogs",
+  "updatelater": "Update later",
+  "credit": "Made by u/XPGamingYT on Reddit, UpdateKit made by Mike Beasley, RoutineHub created by Harley Hicks, ShareShortcuts by Daniel Bahl, ShortcutsGallery.com by Yannic Fries",
+  "changelang": "Change Language"
 }
