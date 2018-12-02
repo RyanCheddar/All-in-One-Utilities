@@ -88,5 +88,18 @@
 "enterpinsetup": "Please enter a passcode",
 "enterpinagain": "Please confirm your passcode",
 "incorrectpin": "Passcode incorrect.",
-  "nopin": "No passcode inputted"
+  "nopin": "No passcode inputted",
+  "newbeta": "Beta Update Available",
+  "betaupdatetext": "Please go to [Other>Install Beta] to install the update.",
+  "ultrapowerdisable.1": "Ultra Low Power Mode is enabled. Would you like to disable it?",
+  "ultrapowerdisable.2": "Do Not Disturb, Airplane Mode and Low Power Mode will be disabled. Your brightness setting will be restored back to how it was when you enabled Ultra Low Power Mode.",
+  "ultrapowerenable.1": "Would you like to enable Ultra Low Power Mode?",
+  "ultrapowerenable.2": "Do Not Disturb, Airplane mode and Low Power Mode will be enabled. The brightness will be set very low. Your brightness setting will be preserved. Mobile data can be turned on in Control Center.",
+  "respringtext": "Respringing your device might cause irreversible data loss if you have unsaved work in any apps.",
+  "sharesites": "Shortcut Sharing Sites’ Pages",
+  "cleanup": "Cleanup",
+  "lang": "pref",
+  "about": "About this shortcut",
+  "noupdates": "There are no available updates for install.",
+  
 }
