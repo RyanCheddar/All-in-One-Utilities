@@ -109,5 +109,6 @@
   "changelang": "Change Language",
   "cleanupwarn": "USING THE CLEANUP UTILITY WILL ERASE ALL YOUR PREFERENCES! ARE YOU SURE YOU WANT TO PROCEED?",
   "available": "Available",
-  "unavailable": "Unavailable"
+  "unavailable": "Unavailable",
+  "pinisno": "PIN can only contain numbers."
 }
