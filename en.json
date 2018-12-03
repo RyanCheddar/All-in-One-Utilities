@@ -1,6 +1,6 @@
 {
   "name.shortcut": "All-in-One Utilities",
-  "ver": "0.17",
+  "ver": "0.18",
   "lang": "en",
   "langfiletext": "Language:",
   "langvertext": "Language Version:",
@@ -113,5 +113,6 @@
   "available": "Available",
   "unavailable": "Unavailable",
   "pinisno": "PIN can only contain numbers.",
-  "pinfail": "You have incorrectly inputted the PIN for more than 5 times. Would you like to reset All-in-One Utilities? (ALL PREFERENCES AND SCENARIO FILES WILL BE LOST!)"
+  "pinfail": "You have incorrectly inputted the PIN for more than 5 times. Would you like to reset All-in-One Utilities? (ALL PREFERENCES AND SCENARIO FILES WILL BE LOST!)",
+  "releasedatebeta": "Release Date:"
 }
