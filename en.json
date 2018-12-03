@@ -1,7 +1,9 @@
 {
   "name.shortcut": "All-in-One Utilities",
-  "ver": "0.16",
+  "ver": "0.17",
   "lang": "en",
+  "langfiletext": "Language:",
+  "langvertext": "Language Version:",
   "yes": "Yes",
   "no": "No",
   "version": "Version",
