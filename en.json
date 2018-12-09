@@ -136,4 +136,5 @@
   "createscenario": "Create Scenario",
   "importscenario": "Import Scenario",
   "name.langtransfer": "Language File Transfer",
+  "langtransprompt": "Language File",
 }
