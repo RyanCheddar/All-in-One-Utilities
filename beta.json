@@ -1,7 +1,7 @@
 {
-"ver": "B45 R15",
+"ver": "B45 R16",
 "changelog": "Multi-language System, PIN lock functionality, new 'Background Youtube Audio' utility, optimized UI, improved performance, multiple utility rewrites, fixed a bug where pressing “<- Go Back” will result in the shortcut input being lost, fixed a bug where utilities will crash under very specific circumstances, removed Nearby Places and Search on Amazon as they’re simply too useless, removed unimportant features from Update Checker to improve performance, QR Code utility is now more useful, if an shortcuts URL is inputted it prompts the user about what to do with the link",
-"URL": "https://www.icloud.com/shortcuts/26771faab32143d4adffa8ed11f6b693",
+"URL": "https://www.icloud.com/shortcuts/6d6d93f8eee64776b5d6c637ef03f8ab",
 "bugs": "Shortcut might not run properly without an official installation of All-in-One Utilities, 'Background Youtube Audio' not added yet, language system only 17% complete, Chinese doesn't work as the github files are missing",
 "actions": "Test for crashes and bugs, check for missing strings, \n\nif shortcut starts acting weird get an official version of All-in-One Utilities and run the cleanup utility in [Other>Cleanup]",
 "date": "9/12/2018 (DD/MM/YYYY)"
