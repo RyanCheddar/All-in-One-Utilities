@@ -1,6 +1,6 @@
 {
   "name.shortcut": "All-in-One Utilities",
-  "ver": "0.20",
+  "ver": "0.21",
   "lang": "en",
   "langfiletext": "Language:",
   "langvertext": "Language Version:",
@@ -153,7 +153,7 @@
   "notscenario": "This is not an scenario file.",
   "ChangeFont": "Change Font",
   "MakeWebsiteEditable": "Make Website Editable",
-  "DarkTheme", "Dark Theme",
+  "DarkTheme": "Dark Mode",
   "CustomJavaScript": "Custom JavaScript",
   "javaprompt": "You can only run JavaScript when All-in-One Utilities is ran from Safari.",
   "tts": "Text to Speech",
