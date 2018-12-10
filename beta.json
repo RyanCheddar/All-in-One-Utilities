@@ -1,7 +1,7 @@
 {
-"ver": "B45 R17",
+"ver": "B45 R18",
 "changelog": "Multi-language System, PIN lock functionality, optimized UI, improved performance, multiple utility rewrites, fixed a bug where pressing “<- Go Back” will result in the shortcut input being lost, fixed a bug where utilities will crash under very specific circumstances, removed Nearby Places and Search on Amazon as they’re simply too useless, removed unimportant features from Update Checker to improve performance, QR Code utility is now more useful, if an shortcuts URL is inputted it prompts the user about what to do with the link",
-"URL": "https://www.icloud.com/shortcuts/6991f014a50c47808cac8bd9b55cfb0c",
+"URL": "https://www.icloud.com/shortcuts/e18dfd9289e3413a9444acdd29248b86",
 "bugs": "'Chinese doesn't work yet",
 "actions": "Test for crashes and bugs, check for missing strings, \n\nif shortcut starts acting weird get an official version of All-in-One Utilities and run the cleanup utility in [Other>Cleanup]",
 "date": "9/12/2018 (DD/MM/YYYY)"
