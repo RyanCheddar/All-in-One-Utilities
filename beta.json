@@ -1,5 +1,5 @@
 {
-"ver": "B45 R999",
+"ver": "B46 R1",
 "changelog": "Major Changes in this version! More languages will become available in the future!\n\nMulti-language System, PIN lock functionality, optimized UI, improved performance, multiple utility rewrites, fixed a bug where pressing “<- Go Back” will result in the shortcut input being lost, fixed a bug where utilities will crash under very specific circumstances, removed Nearby Places and Search on Amazon as they’re simply too useless, removed unimportant features from Update Checker to improve performance, QR Code utility is now more useful, if an shortcuts URL is inputted it prompts the user about what to do with the link.",
 "URL": "https://www.icloud.com/shortcuts/9e1ad47963c2488a90cbb0ac9f899bac",
 "bugs": "'OFFICIAL VERSION, NO BUGS",
