@@ -174,5 +174,6 @@
   "shareURL": "Share URL",
   "continue": "Continue in All-in-One Utilities",
   "URLprompt": "An iCloud Shortcut URL has been detected. What would you like to do with it?",
-  "chooseshortcuttosend": "Choose a shortcut to send the URL to:"
+  "chooseshortcuttosend": "Choose a shortcut to send the URL to:",
+  "scenarioslotselect": "Select a slot to save to:"
 }
