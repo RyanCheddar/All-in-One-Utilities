@@ -1,6 +1,7 @@
 {
+  "nointernetconnectionupdate": "Your language file is outdated, however it couldn’t be updated as there’s no internet connection.\n\nPlease connect your device to Wi-Fi or Mobile Data and try again.",
   "name.shortcut": "All-in-One Utilities",
-  "ver": "1.1",
+  "ver": "1.11",
   "lang": "en",
   "langfiletext": "Language:",
   "langvertext": "Language Version:",
