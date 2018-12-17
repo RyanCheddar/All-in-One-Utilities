@@ -1,8 +1,8 @@
 {
   "en": 
-    {"update": "Updating...", "text": "Please wait a while."},
+    {"update": "Updating Resources...", "text": "Please wait a while."},
   "zh(TW)": 
-    {"update": "更新中...", "text": "請稍後片刻。"},
+    {"update": "更新資源中...", "text": "請稍後片刻。"},
   "zh(CN)": 
-    {"update": "更新中...", "text": "请稍后片刻。"},
+    {"update": "更新资源中...", "text": "请稍后片刻。"},
 }
