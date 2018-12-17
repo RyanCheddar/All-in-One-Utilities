@@ -1,7 +1,7 @@
 {
   "nointernetconnectionupdate": "Your language file is outdated, however it couldn’t be updated as there’s no internet connection.\n\nPlease connect your device to Wi-Fi or Mobile Data and try again.",
   "name.shortcut": "All-in-One Utilities",
-  "ver": "1.11",
+  "ver": "1.12",
   "lang": "en",
   "langfiletext": "Language:",
   "langvertext": "Language Version:",
@@ -176,5 +176,6 @@
   "continue": "Continue in All-in-One Utilities",
   "URLprompt": "An iCloud Shortcut URL has been detected. What would you like to do with it?",
   "chooseshortcuttosend": "Choose a shortcut to send the URL to:",
-  "scenarioslotselect": "Select a slot to save to:"
+  "scenarioslotselect": "Select a slot to save to:",
+  "locationdetail": "Location:"
 }
