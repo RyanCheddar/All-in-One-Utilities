@@ -1,7 +1,7 @@
 {
   "nointernetconnectionupdate": "Your language file is outdated, however it couldn’t be updated as there’s no internet connection.\n\nPlease connect your device to Wi-Fi or Mobile Data and try again.",
   "name.shortcut": "All-in-One Utilities",
-  "ver": "2",
+  "ver": "3",
   "lang": "en",
   "langfiletext": "Language:",
   "langvertext": "Language Version:",
@@ -178,9 +178,16 @@
   "chooseshortcuttosend": "Choose a shortcut to send the URL to:",
   "scenarioslotselect": "Select a slot to save to:",
   "locationdetail": "Location:",
-  "COMMENT": "START OF VERSION 2",
   "searchgoogle": "Search Online",
   "javacustomprompt": "Please enter the JavaScript you want to run.",
   "convertgif": "Convert GIF",
-  "savedphoto": "Saved to Photo Album."
+  "savedphoto": "Saved to Photo Album.",
+  "name.parkcar": "Park My Car",
+  "parkcarphotoprompt": "Please take a photo of where you parked your car.",
+  "notesprompt": "Want to add any extra notes?",
+  "alreadyparked": "You have already parked a car. Please select an action.",
+  "overwrite": "Overwrite Parked Car",
+  "viewdata": "View Parked Car",
+  "cardata": "Parking Information",
+  "notes": "Notes:"
 }
