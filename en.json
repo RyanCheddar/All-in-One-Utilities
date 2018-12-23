@@ -188,6 +188,6 @@
   "alreadyparked": "You have already parked a car. Please select an action.",
   "overwrite": "Overwrite Parked Car",
   "viewdata": "View Parked Car",
-  "cardata": "Parking Information",
+  "cardata": "Parking Information (Press an item to expand)",
   "notes": "Notes:"
 }
