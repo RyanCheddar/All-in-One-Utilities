@@ -1,8 +1,8 @@
 {
-"ver": "B52 R1",
-"changelog": "Modular UI System that lets you change the UI easily by just creating a shortcut. Relocating Scenarios and Run JavaScript to a category, new “Utility of the day” and “Pin Utility” features",
-"URL": "https://www.icloud.com/shortcuts/2488b4212e3a4415a8a4a60bc76bc69f",
-"bugs": "Ultra Low Power Mode doesn’t work yet, no significant changes to UI yet.",
-"actions": "Do not update to this version! This version is still not ready yet.",
-"date": "24/12/2018 (DD/MM/YYYY)"
+"ver": "B52 R2",
+"changelog": "Modular UI System that lets you change the UI easily by just creating a shortcut. Relocating Scenarios and Run JavaScript to a category, new “Suggested Utility” and “Pin Utility” features",
+"URL": "https://www.icloud.com/shortcuts/c189ad08d1804c30ac76f610976a8424",
+"bugs": "no significant changes to UI yet.",
+"actions": "Test if any utility stops working or loses functionality",
+"date": "25/12/2018 (DD/MM/YYYY)"
 }
