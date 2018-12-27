@@ -1,7 +1,7 @@
 {
-"ver": "B53 R2",
+"ver": "B53 R3",
 "changelog": "Added “iTweak” by @JonathanSetzer, Added “Tilt to Scroll” in JavaScript (Copied from @JonathanSetzer’s iTweak)",
-"URL": "https://www.icloud.com/shortcuts/8c60326b0a86409a8a75bd55a35f08ae",
+"URL": "https://www.icloud.com/shortcuts/a6359cf815ab4f289cc5186fbff8b3ce",
 "bugs": "Not all strings have been properly translated",
 "actions": "Test for significant lag in utilities, test for unexpected behavior",
 "date": "27/12/2018 (DD/MM/YYYY)"
