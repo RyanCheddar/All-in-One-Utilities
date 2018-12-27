@@ -1,8 +1,8 @@
 {
-"ver": "B52 R3",
-"changelog": "Modular UI System that lets you change the UI easily by just creating a shortcut. Relocating Scenarios and Run JavaScript to a category, new “Suggested Utility” and “Pin Utility” features",
-"URL": "https://www.icloud.com/shortcuts/a3c7435125224f9ba2b5ac3d93ea6c03",
-"bugs": "no significant changes to UI yet.",
-"actions": "Test if any utility stops working or loses functionality",
-"date": "25/12/2018 (DD/MM/YYYY)"
+"ver": "B53 R1",
+"changelog": "Added “iTweak” by @JonathanSetzer, Added “Tilt to Scroll” in JavaScript (Copied from @JonathanSetzer",
+"URL": "https://www.icloud.com/shortcuts/3965c93fda534288883c9b493fa1dc45",
+"bugs": "Not all strings have been properly translated",
+"actions": "Test for significant lag in utilities",
+"date": "27/12/2018 (DD/MM/YYYY)"
 }
