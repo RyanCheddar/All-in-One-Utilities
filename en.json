@@ -1,7 +1,7 @@
 {
   "nointernetconnectionupdate": "Your language file is outdated, however it couldn’t be updated as there’s no internet connection.\n\nPlease connect your device to Wi-Fi or Mobile Data and try again.",
   "name.shortcut": "All-in-One Utilities",
-  "ver": "3",
+  "ver": "4",
   "lang": "en",
   "langfiletext": "Language:",
   "langvertext": "Language Version:",
@@ -189,5 +189,6 @@
   "overwrite": "Overwrite Parked Car",
   "viewdata": "View Parked Car",
   "cardata": "Parking Information (Press an item to expand)",
-  "notes": "Notes:"
+  "notes": "Notes:",
+  "continueanyway": "Continue Anyway"
 }
