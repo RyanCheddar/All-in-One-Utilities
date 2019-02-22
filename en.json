@@ -79,7 +79,7 @@
   "min": "Minutes",
   "hrs": "Hours",
   "days": "Days",
-  "unavailable": "Sorry, but this utility is unavailable for your language.",
+  "utilunavailable": "Sorry, but this utility is unavailable for your language.",
   "slot": "Slot",
   "checkforupdates": "Check For Updates",
   "page": "Page",
