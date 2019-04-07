@@ -1,7 +1,7 @@
 {
-"ver": "B55 R5",
+"ver": "B55 R6",
 "changelog": "Changes listed inside shortcut",
-"URL": "https://www.icloud.com/shortcuts/ac1f4e565b8d44ccad0f229c805f5559",
+"URL": "https://www.icloud.com/shortcuts/b1cfc1f64a864312b2f5e41479a44149",
 "bugs": "Not all strings have been properly translated, relocations not complete, Menu is currently screwed up",
 "actions": "Test for significant lag in utilities, test for unexpected behavior",
 "date": "12/2/2019 (DD/MM/YYYY)"
