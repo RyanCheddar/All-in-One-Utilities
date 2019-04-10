@@ -5,6 +5,13 @@
   "txt2ASCII": "Text To ASCII",
   "searchmster": "Search Master",
   "===END OF VERSION 55": "END===",
+  "desc.back": "Go back to Main Menu",
+  "desc.status": "The status of your device or All-in-One Utilities",
+  "desc.system": "Utilities that make the most out of iOS",
+  "desc.ultra": "Save your battery power for things that matter",
+  "desc.netreset": "Fix network issues in seconds",
+  "desc.ctrlcenter": "Improved Control Center by @SwaggyIOSRam",
+  "desc.clipboard": "
   "nointernetconnectionupdate": "Your language file is outdated, however it couldn’t be updated as there’s no internet connection.\n\nPlease connect your device to Wi-Fi or Mobile Data and try again.",
   "name.shortcut": "All-in-One Utilities",
   "ver": "4.1",
