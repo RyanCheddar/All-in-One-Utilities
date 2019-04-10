@@ -1,4 +1,9 @@
-{"continueanyway": "仍然继续","name.parkcar": "泊车助手",
+{
+  "name.media": "媒体",
+  "favutility": "最爱小工具",
+  "filevault": "档案加密",
+  "txt2ASCII": "ASCII转换",
+"searchmster": "搜寻大师","continueanyway": "仍然继续","name.parkcar": "泊车助手",
   "parkcarphotoprompt": "请拍一张能清楚看到泊车地点的照片",
   "notesprompt": "想加上任何标记吗?",
   "alreadyparked": "你已泊了一辆车，请问你要做什么呢?",
