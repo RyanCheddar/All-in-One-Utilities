@@ -21,7 +21,7 @@
   "no": "No",
   "version": "Version",
   "setup.greet": "Greetings! You don't seem to have setup this shortcut properly before, so let's help you set everything up! (Don't worry, you only need to do this setup once)",
-  "setup.prompt.autoupdate": "Would you like All-in-One Utilities to automatically check for updates everytime it is run?\n\n(Do not enable this if you have a slow internet connection!)",
+  "setup.prompt.autoupdate": "Would you like All-in-One Utilities to automatically check for updates and new info everytime it is run?\n\n(Do not enable this if you have a slow internet connection!)",
   "setup.prompt.speedtestURL": "Please enter a speedtest website that you trust the most. (Default is fast.com)",
   "setup.complete": "You're all done! If you want to change any of your preferences, Go to [Other>Change Preferences] in the Main Menu!",
   "name.setup": "Setup Assistant",
