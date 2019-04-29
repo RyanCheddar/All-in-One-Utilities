@@ -6,3 +6,5 @@ If you are interested in trying out this shortcut, you can download it on your i
 Download Link: https://routinehub.co/shortcut/124
 
 No extra shortcuts are required for the shortcut to operate.
+
+Russian translation for the shortcut is provided by u/Devilmashine. 
